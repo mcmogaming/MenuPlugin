@@ -1,0 +1,7 @@
+name: MenuPlugin
+main: pro.mcmogaming.menuplugin.MenuPlugin
+version: 1.0.0
+commands:
+   menu:
+      description: Pulls up a menu for the player
+      usage: /menu
